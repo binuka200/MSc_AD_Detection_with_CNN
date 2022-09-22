@@ -1,6 +1,16 @@
 # MSc_AD_Detection_Project
 This is my Masters Dissertation project code and dataset repository
 
+# Dataset
+
+ALL the datasets were produced and used are available in my google drive at this link:
+https://drive.google.com/drive/folders/1UqOoSxWPRJtMykCBKqEJew_5RUcxQyzj?usp=sharing
+
+The datasets are large in size 
+
+
+# Code
+
 The code is available in the code folder
 
 Skullstripping_and_FeatureExtraction_slicing .ipynb and CNN_models.ipynb was run on Google Colab Pro
