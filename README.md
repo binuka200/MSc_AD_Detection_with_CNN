@@ -3,10 +3,11 @@ This is my Masters Dissertation project code and dataset repository
 
 # Dataset
 
-ALL the datasets were produced and used are available in my google drive at this link:
-https://drive.google.com/drive/folders/1UqOoSxWPRJtMykCBKqEJew_5RUcxQyzj?usp=sharing
+ALL the datasets that were produced and used are available in my google drive and can be provided on request due to the confidentiality of this medical data.
 
-The datasets are large in size therefore stored in this google drive link
+The datasets are large in size therefore stored in google drive and can be provided on request.
+
+If the dataset is needed, contact me using my university email and I can provide you the link.
 
 
 # Code
