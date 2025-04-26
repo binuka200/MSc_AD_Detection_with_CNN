@@ -1,4 +1,4 @@
-# MSc_AD_Detection_Project
+# Alzheimer Disease Detection using Convolutional Neural Network (CNN)
 This is my Masters Dissertation project code in which I developed a novel multiclass classification model for Alzheimer’s Disease detection using transfer learning with 2D and 3D Convolutional Neural Networks (CNNs) on MRI scans
 
 
