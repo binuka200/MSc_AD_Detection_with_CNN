@@ -1,13 +1,5 @@
 # MSc_AD_Detection_Project
-This is my Masters Dissertation project code and dataset repository
-
-# Dataset
-
-ALL the datasets that were produced and used are available in my google drive and can be provided on request due to the confidentiality of this medical data.
-
-The datasets are large in size therefore stored in google drive and can be provided on request.
-
-If the dataset is needed, contact me using my university email and I can provide you the link.
+This is my Masters Dissertation project code in which I developed a novel multiclass classification model for Alzheimer’s Disease detection using transfer learning with 2D and 3D Convolutional Neural Networks (CNNs) on MRI scans
 
 
 # Code
